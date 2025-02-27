@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Ankit Singh<br>I am a junior undergraduate at IIT Gandhinagar. I'm passionate about software development, machine learning, and data-driven problem-solving.<br><br>🔹 Tech Stack: Python, C++, Rust, JavaScript, React, Tauri<br>🔹 Interests: Full-Stack Development, Machine Learning, Open-Source Contributions<br><br>I love building efficient, scalable applications and constantly learning new technologies. Open to collaborations and exciting projects! 🚀<br><br>🔭 I’m currently working on Spectrophotometer under Prof. Karthik S(IIT Gandhinagar)<br>👯 I’m looking to collaborate on Project Related to ML/Full-Stack Development<br>🌱 I’m currently learning NLP<br>
+Hi there! 👋 I'm Ankit Singh<br>I am a junior undergraduate at IIT Gandhinagar. I'm passionate about software development, machine learning, and data-driven problem-solving.<br><br>🔹 Interests: Full-Stack Development, Machine Learning, Open-Source Contributions<br><br>I love building efficient, scalable applications and constantly learning new technologies. Open to collaborations and exciting projects! 🚀<br><br>🔭 I’m currently working on Spectrophotometer under Prof. Karthik S(IIT Gandhinagar)<br>👯 I’m looking to collaborate on Project Related to ML/Full-Stack Development<br>🌱 I’m currently learning NLP<br>
 
 
 ## 🌐 Socials:
